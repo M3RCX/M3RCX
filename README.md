@@ -80,6 +80,14 @@ Também tenho conhecimento em Flutter e Swift.
 - **Técnico em Informática** — ETEC Uirapuru, 2016 — 2019
 - Português nativo · Inglês básico · Espanhol básico
 
+## Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M3RCX/mercx-main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M3RCX/mercx-main/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação das contribuições de Guilherme Mercante" src="https://raw.githubusercontent.com/M3RCX/mercx-main/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 <details>
