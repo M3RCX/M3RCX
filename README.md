@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Front-end · SAP Commerce · E-commerce
 
-Construindo experiências web responsivas, performáticas e sustentáveis.
+Construindo experiências web responsivas e performáticas.
 
 <img src="./favicon.ico" alt="Ícone pessoal de Guilherme Mercante" width="72" height="72" />
 
